@@ -18,3 +18,5 @@ The project successfully demonstrates the application of various machine learnin
 
 Usage
 This repository contains all the code and documentation for the project. The Jupyter Notebook includes detailed comments and explanations for each step, making it accessible for users interested in understanding and exploring machine learning in fraud detection.
+
+Link to dataset - https://www.kaggle.com/datasets/ealaxi/paysim1
